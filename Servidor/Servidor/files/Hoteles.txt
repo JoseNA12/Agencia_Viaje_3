@@ -1,0 +1,52 @@
+03;25;12;Burj Al Arab;1;Dubai;80000;120000;30;20
+20;37;16;Four Seasons George V;1;New York;60000;90000;40;90
+10;89;25;Doubletree Resort by Hilton;2;Puntarenas;30000;50000;50;70
+20;13;12;Gallery Hotel Art;2;New York;40000;55000;20;30
+20;56;38;The Beverly Hills Hotel;1;Beverly Hills;55000;80000;40;30
+10;34;45;RIU Hotels & Resorts;1;Guanacaste;45000;60000;60;20
+10;05;64;Barceló;2;Puntarenas;20000;35000;50;50
+03;25;78;Radisson Hotel;2;San Jose;25000;40000;30;20
+20;37;11;Four Seasons George V;1;New York;60000;90000;40;90
+03;25;93;Burj Al Arab;1;Dubai;80000;120000;50;70
+20;37;21;Four Seasons George V;1;New York;60000;90000;15;45
+03;25;1000;Burj Al Arab;1;Dubai;80000;120000;65;45
+10;89;25;Doubletree Resort by Hilton;2;Puntarenas;30000;50000;75;75
+03;25;1652;Burj Al Arab;1;Dubai;80000;120000;25;60
+10;89;225;Doubletree Resort by Hilton;2;Puntarenas;30000;50000;60;70
+20;37;36;Four Seasons George V;1;New York;60000;90000;50;50
+10;89;225;Doubletree Resort by Hilton;2;Puntarenas;30000;50000;30;90
+20;37;76;Four Seasons George V;1;New York;60000;90000;30;20
+20;13;10;Gallery Hotel Art;2;New York;40000;55000;90;70
+20;37;99;Four Seasons George V;1;New York;60000;90000;40;90
+10;89;125;Doubletree Resort by Hilton;2;Puntarenas;30000;50000;50;70
+20;37;161;Four Seasons George V;1;New York;60000;90000;20;60
+20;56;138;The Beverly Hills Hotel;1;Beverly Hills;55000;80000;40;35
+10;89;245;Doubletree Resort by Hilton;2;Puntarenas;30000;50000;60;20
+10;89;258;Doubletree Resort by Hilton;2;Puntarenas;30000;50000;50;50
+20;13;128;Gallery Hotel Art;2;New York;40000;55000;100;20
+10;89;23;Doubletree Resort by Hilton;2;Puntarenas;30000;50000;100;100
+20;56;45;The Beverly Hills Hotel;1;Beverly Hills;55000;80000;25;60
+10;05;12;Barceló;2;Puntarenas;20000;35000;30;30
+10;34;45;RIU Hotels & Resorts;1;Guanacaste;45000;60000;30;40
+10;05;164;Barceló;2;Puntarenas;20000;35000;25;30
+10;89;59;Doubletree Resort by Hilton;2;Puntarenas;30000;50000;40;50
+27;96;190;Gallery Hotel Art;2;New York;40000;55000;100;50
+50;85;388;The Beverly Hills Hotel;1;Beverly Hills;55000;80000;20;30
+52;18;02;RIU Hotels & Resorts;1;Guanacaste;45000;60000;90;70
+12;21;90;Doubletree Resort by Hilton;2;Puntarenas;30000;50000;70;50
+45;39;29;RIU Hotels & Resorts;1;Guanacaste;45000;60000;30;90
+50;31;69;Barceló;2;Puntarenas;20000;35000;45;67
+13;10;380;The Beverly Hills Hotel;1;Beverly Hills;55000;80000;50;70
+15;93;34;Doubletree Resort by Hilton;2;Puntarenas;30000;50000;40;35
+10;89;34;Doubletree Resort by Hilton;2;Puntarenas;30000;50000;30;90
+15;93;24;Doubletree Resort by Hilton;2;Puntarenas;30000;50000;50;50
+10;45;34;Doubletree Resort by Hilton;2;Puntarenas;30000;50000;25;60
+10;89;22;Doubletree Resort by Hilton;2;Puntarenas;30000;50000;30;90
+15;13;134;Gallery Hotel Art;2;New York;40000;55000;45;67
+20;56;467;The Beverly Hills Hotel;1;Beverly Hills;55000;80000;30;80
+10;34;77;RIU Hotels & Resorts;1;Guanacaste;45000;60000;20;40
+20;56;44;The Beverly Hills Hotel;1;Beverly Hills;55000;80000;120;80
+03;25;12;Burj Al Arab;1;Dubai;80000;120000;150;75
+10;34;23;RIU Hotels & Resorts;1;Guanacaste;45000;60000;45;60
+10;05;49;Barceló;2;Puntarenas;20000;35000;90;20
+10;45;23;Barceló;2;Puntarenas;20000;35000;30;30

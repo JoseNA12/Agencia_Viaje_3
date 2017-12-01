@@ -1,0 +1,32 @@
+03;Dubai
+20;Estados Unidos
+09;El Salvador
+34;Panama
+27;Finlandia
+10;Costa Rica
+23;Francia
+70;Nicaragua
+21;Italia
+34;Congo
+56;Inglaterra
+86;Mexico
+67;Chile
+15;China
+12;Canada
+20;Egipto
+56;Cuba
+18;Camerun
+26;Alemania
+52;Belice
+76;Argentina
+80;España
+86;Eslovaquia
+31;Portugal
+50;Grecia
+13;Japon
+20;Rusia
+65;Armenia
+97;Belgica
+45;Brasil
+38;Bulgaria
+73;Dinamarca

@@ -1,0 +1,24 @@
+03;25;Costa Rica;Dubai;06/Mayo;08/Mayo;900000;56;4
+20;37;Panama;Estados Unidos;25/Octubre;26/Octubre;300000;39;6
+10;89;Francia;Costa Rica;07/Junio;08/Junio;500000;60;8
+20;13;China;Estados Unidos;20/Marzo;23/Marzo;700000;50;5
+20;56;Nicaragua;Estados Unidos;04/Febrero;05/Febrero;300000;60;4
+20;37;Chile;Estados Unidos;12/Octubre;14/Octubre;600000;50;5
+10;34;Italia;Costa Rica;25/Diciembre;27/Diciembre;650000;52;6
+20;13;Argentina;Estados Unidos;20/Julio;23/Julio;400000;57;2
+10;05;Estados Unidos;Costa Rica;06/Agosto;07/Agosto;400000;50;3
+03;25;Francia;Dubai;06/Abril;08/Abril;500000;54;7
+20;56;El Salvador;Estados Unidos;04/Setiembre;05/Setiembre;400000;45;9
+10;45;Inglaterra;Costa Rica;27/Junio;30/Junio;350000;12;2
+10;89;Mexico;Costa Rica;28/Junio;30/Junio;350000;65;5
+15;93;Costa Rica;China;12/Marzo;25/Marzo;350000;20;4
+27;96;Panama;Finlandia;06/Mayo;08/Mayo;900000;56;4
+15;14;China;Alemania;25/Octubre;26/Octubre;300000;39;6
+50;85;Grecia;Alemania;07/Junio;08/Junio;500000;60;8
+31;27;España;Portugal;20/Marzo;23/Marzo;700000;50;5
+12;21;Portugal;Canada;04/Febrero;05/Febrero;300000;60;4
+52;18;El Salvador;Belice;20/Marzo;23/Marzo;700000;50;5
+73;54;Brasil;Dinamarca;04/Febrero;05/Febrero;300000;60;4
+45;39;Belgica;Brasil;12/Octubre;14/Octubre;600000;50;5
+50;31;Japon;Grecia;25/Diciembre;27/Diciembre;650000;52;6
+13;10;Alemania;Japon;20/Julio;23/Julio;400000;57;2

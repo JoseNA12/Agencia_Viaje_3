@@ -1,0 +1,21 @@
+01;Juan;Navarro;San Jose;123
+04;Luisa;Perez;Cartago;654
+07;Fernando;Lopez;Guanacaste;345
+23;Jesus;Monge;Cartago;430
+04;Daniela;Salazar;Tibas;895
+98;Maria;Zuñiga;Perez Zeledón;543
+23;Julio;Granados;Moravia;768
+05;Karla;Chavarria;Coronado;234
+10;Angelica;Blanco;Limon;943
+12;Thomas;Hernandez;Alajuela;532
+02;Lizeth;Fernández;Moravia;123
+08;Raquel;Mendez;Paraiso;621
+27;Ricardo;Madrigal;Cartago;399
+33;Andres;Perez;Heredia;470
+34;Jose;Aguilar;San Jose;854
+68;Pedro;Barboza;Alajuela;343
+83;Joshua;Smith;Grecia;748
+25;Kenneth;Dixon;Los Chiles;634
+11;Maria;Rojas;Guanacaste;976
+13;Tatiana;Vargas;Heredia;987
+23;Armando;Arce;Cartago;297
